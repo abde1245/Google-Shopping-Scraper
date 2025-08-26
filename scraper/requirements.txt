@@ -3,3 +3,5 @@ Flask-Cors
 undetected-chromedriver
 beautifulsoup4
 selenium
+re
+undetected_chromedriver
