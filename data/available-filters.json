@@ -1,0 +1,28 @@
+
+{
+  "Brand": [
+    "Bata",
+    "Hush Puppies",
+    "Paragon",
+    "Woodland",
+    "Clarks",
+    "Red Tape",
+    "Lee Cooper",
+    "Crocs"
+  ],
+  "Color": [
+    "Brown",
+    "Camel",
+    "Tan",
+    "Black"
+  ],
+  "Type": [
+    "Sandals",
+    "Thong Sandals",
+    "Open Toe Sandals",
+    "Chappals"
+  ],
+  "Offer": [
+    "On sale"
+  ]
+}

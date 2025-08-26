@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Shopping Search",
+  "description": "An intelligent shopping interface that uses Gemini to understand natural language search queries, structures them for a backend, and displays product results in a visually stunning UI.",
+  "requestFramePermissions": []
+}
